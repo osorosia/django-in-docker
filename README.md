@@ -1,7 +1,8 @@
 # Djangoの環境構築（自分用）
 Djangoの環境構築をDocker上で行います。  
 公式クイックスタートをものすごく参考にしています。  
-今後拡張予定です。
+https://docs.docker.com/compose/django/  
+今後拡張していく予定です。
 
 ## 環境
 ```
